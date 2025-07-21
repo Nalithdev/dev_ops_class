@@ -11,5 +11,25 @@
       "StackId": "arn:aws:cloudformation:eu-west-1:038785695261:stack/amplify-devopsaws-dev-22f6e/8a9ab200-660c-11f0-8cb9-0ab61dc885bf",
       "AmplifyAppId": "d3l6itn2xkvp4v"
     }
+  },
+  "nalith": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-devopsaws-nalith-8d481-authRole",
+      "UnauthRoleArn": "arn:aws:iam::038785695261:role/amplify-devopsaws-nalith-8d481-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::038785695261:role/amplify-devopsaws-nalith-8d481-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-devopsaws-nalith-8d481-deployment",
+      "UnauthRoleName": "amplify-devopsaws-nalith-8d481-unauthRole",
+      "StackName": "amplify-devopsaws-nalith-8d481",
+      "StackId": "arn:aws:cloudformation:eu-west-1:038785695261:stack/amplify-devopsaws-nalith-8d481/a7472590-662b-11f0-9f18-0240f0a6fc1f",
+      "AmplifyAppId": "d3l6itn2xkvp4v"
+    },
+    "categories": {
+      "function": {
+        "devopsaws80713148": {
+          "test": "0"
+        }
+      }
+    }
   }
 }
